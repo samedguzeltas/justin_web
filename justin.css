@@ -1,0 +1,22 @@
+img {
+	border-radius: 30%;
+	border:ridge green 10px;
+}
+
+body {
+
+	background-color: black;
+	color: white;
+	margin:100px 50px 10px 100px;
+	border: dashed grey 10px;
+	text-align:center;
+}
+
+h3{
+	color:yellow;
+	font-size: 24px;
+}
+
+p{
+	font-size: 20px
+}
